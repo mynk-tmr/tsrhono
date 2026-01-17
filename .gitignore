@@ -25,3 +25,4 @@ dist-ssr
 
 # Artifacts
 routeTree.gen.ts
+_api
